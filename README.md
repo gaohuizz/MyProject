@@ -1,1 +1,1 @@
-# ginProject
+# MyProject
